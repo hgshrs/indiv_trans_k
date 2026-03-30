@@ -1,6 +1,6 @@
-# CS:GO Behavioral Latent Transfer Learning
+# Counter Strike 2 (CS2) Behavioral Latent Transfer Learning
 
-This repository contains the code and data for modeling individual behavioral "signatures" in CS:GO trajectory data and transferring them across different domains (maps and roles).
+This repository contains the code and data for modeling individual behavioral "signatures" in CS2 trajectory data and transferring them across different domains (maps and roles).
 
 ## Overview
 
