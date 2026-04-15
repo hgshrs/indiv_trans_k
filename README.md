@@ -59,4 +59,5 @@ The JSON files in `data/` contain sequences of (X, Y) coordinates for a player a
 - `Ally_X, Ally_Y`: Average coordinates of teammate players.
 
 ## Citation
-If you use this code or data in your research, please cite our work (details to be added).
+If you use this code or data in your research, please cite our work:
+https://doi.org/10.64898/2026.03.29.715160
